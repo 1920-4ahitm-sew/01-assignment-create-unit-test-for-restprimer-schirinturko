@@ -35,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Vehicle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -135,7 +135,9 @@
       <option name="presentableId" value="Default" />
       <updated>1570538572378</updated>
       <workItem from="1570538578863" duration="3073000" />
-      <workItem from="1570639954416" duration="3657000" />
+      <workItem from="1570639954416" duration="4899000" />
+      <workItem from="1570687698112" duration="2229000" />
+      <workItem from="1570722354858" duration="163000" />
     </task>
     <servers />
   </component>
